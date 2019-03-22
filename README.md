@@ -7,3 +7,4 @@ In order to succesfully start up this project app, you'll have to 'npm start' th
 1. api
 2. client
 3. rtmpserver
+And then search for 'localhost:3000' in any internet browser.
