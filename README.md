@@ -3,6 +3,7 @@ Stream is a React app that allows user to login with Google authentication. This
 
 
 # Usage
-1.
-2.
-3.
+In order to succesfully start up this project app, you'll have to 'npm start' the following folders: 
+1. api
+2. client
+3. rtmpserver
